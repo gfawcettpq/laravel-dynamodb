@@ -1,5 +1,5 @@
 {
-    "name": "kitar/laravel-dynamodb",
+    "name": "gfawcettpq/laravel-dynamodb",
     "description": "A DynamoDB based Eloquent model and Query builder for Laravel.",
     "keywords": [
         "laravel",
@@ -8,10 +8,13 @@
         "model",
         "auth"
     ],
-    "homepage": "https://github.com/kitar/laravel-dynamodb",
+    "homepage": "https://github.com/gfawcettpq/laravel-dynamodb",
     "authors": [
         {
-            "name": "Satoshi Kita"
+            "name": "Satoshi Kita",
+        },
+        {
+            "name": "Graeme Fawcett"
         }
     ],
     "license": "MIT",
